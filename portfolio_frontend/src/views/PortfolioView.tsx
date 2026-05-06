@@ -66,10 +66,10 @@ const useMetaTags = (metadata: {
 // PORTFOLIO DATA CONFIGURATION
 // ============================================================================
 const defaultPortfolioData = {
-  name: "LADY DIANE BAUZON CASILANG",
+  name: "Patrick Josh S. Añedez",
   course: "BS in Information Technology",
-  school: "FEU Institute of Technology",
-  about: "I am a fourth-year IT student and freelance designer who integrates technical troubleshooting with creative insight to deliver innovative, efficient solutions.",
+  school: "Bukidnon State University - Main Campus",
+  about: "I Love Technology!",
   skills: [
     "Graphic Design",
     "UI / UX Design",
@@ -77,8 +77,8 @@ const defaultPortfolioData = {
     "Full Stack Development",
     "Web & App Development"
   ],
-  linkedin: "https://www.linkedin.com/in/ldcasilang/",
-  github: "https://github.com/ldcasilang",
+  linkedin: "https://www.linkedin.com/in/patrickjoshanedez/",
+  github: "https://github.com/Patkik",
 }
 
 // Network configuration
